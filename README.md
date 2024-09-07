@@ -1,6 +1,6 @@
 # Aviral Mittal's Data Science & Machine Learning Portfolio
 
-Welcome to my portfolio! I am Aviral Mittal, a **Senior Data Scientist and Machine Learning Engineer** with over 12 years of experience in building AI-driven solutions across industries like Telecom, CPG, Pharma, Hospitality, and more.
+Welcome to my portfolio! I am Aviral Mittal, a seasonal Data Science/AI professional with over 12 years of experience in building AI-driven solutions across industries like Telecom, CPG, Pharma, Hospitality, and more.
 
 # Experience Summary
 
