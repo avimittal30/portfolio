@@ -54,4 +54,4 @@ The eval_loss of the finetuned model was significantly lower compared to that of
 
 # Education
 - **Post Graduate Diploma in Management - Financial Services** | K J Somaiya Institute of Management, Mumbai, India | 2013-2015 
-- **Bachelor of Engineering - Instrumentation and Control**    | University of Delhi, India | 2005-2009
+- **Bachelor of Engineering - Instrumentation and Control**| University of Delhi, India | 2005-2009
