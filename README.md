@@ -5,12 +5,13 @@ Welcome to my portfolio!
 * A seasoned Data Science/AI professional backed by education in Engineering and Finance
 * 12+ years of experience in delivering data-driven solutions to Fortune 500 clients from industries like Telecom, CPG, Pharma, Hospitality, Logistics
 
-  🛠️[Generative AI Applications](#generative-ai-applications) 👨🏽‍💻 <br/>
+
 
 🔘 Get in touch with me 👇 🔘
 
 📁[GitHub](https://github.com/avimittal30)        ✉️[avimittal3007@gmail.com](mailto:avimittal3007@gmail.com)        🏢[LinkedIn](https://www.linkedin.com/in/aviral-mittal-11027011/) 
 
+🛠️[Generative AI Applications](#generative-ai-applications) 👨🏽‍💻 <br/>
 
 # Experience Summary
 
