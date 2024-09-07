@@ -22,9 +22,9 @@ Welcome to my portfolio!
 ## Absolutdata, Gurugram, India
 *Associate Manager - Aug'17- Mar'23*
 
-* Data Integration & Visualization: Led and managed complex data integration and visualization projects for a leading logistics company. Utilized SAS for ETL processes and PowerBI for creating impactful visualizations. Delivered executive-level reports consumed by C-level executives, facilitating informed decision-making.
-* Time Series Forecasting: Led a team of data scientists to achieve 75-85% accuracy in time series forecasting models within a Databricks environment for a leading logistics company. Utilized models such as SARIMAX, Prophet, Holt-Winters, and Exponential Smoothing to predict package volumes and streamline logistics operations.
-* Market Mix Modeling (MMM): Developed Market Mix Models for several CPG and Pharma companies, resulting in a reduction of marketing spend by 2-2.5% in markets including the US, Canada, Argentina, and KSA. Enhanced marketing efficiency through data-driven insights and optimization strategies.
+* Led and managed complex data integration and visualization projects for a leading logistics company. Utilized SAS for ETL processes and PowerBI for creating impactful visualizations. Delivered executive-level reports consumed by C-level executives, facilitating informed decision-making.
+* Led a team of data scientists to achieve 75-85% accuracy in time series forecasting models within a Databricks environment for a leading logistics company. Utilized models such as SARIMAX, Prophet, Holt-Winters, and Exponential Smoothing to predict package volumes and streamline logistics operations.
+* Developed Market Mix Models for several CPG and Pharma companies, resulting in a reduction of marketing spend by 2-2.5% in markets including the US, Canada, Argentina, and KSA. Enhanced marketing efficiency through data-driven insights and optimization strategies.
 
 ## LatentView Analytics, Chennai, India
 *Senior Analyst - May'17- Jul'17*
