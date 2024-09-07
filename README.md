@@ -24,6 +24,14 @@ Welcome to my portfolio! I am Aviral Mittal, a seasonal Data Science/AI professi
 * Created time series models for predicting demand of service orders by product category and geography. This enabled the client to better plan and allocate resources, improving the efficiency of agent supply.
 * Designed impactful Tableau and Excel visualizations for weekly business reviews in the home services division of a retail chain. Delivered comprehensive reports that facilitated data-driven decisions by C-level executives.
 
+## Mphasis, Pune, India
+*Senior Analyst - Mar'10- May'23*
+* Orchestrated a complete data pipeline for an airline company, including data collection, transformation, and storage. Built insightful dashboards in Tableau that provided actionable insights and improved operational decision-making.
+* Developed shell scripts to automate application and license testing processes, significantly reducing testing time and improving efficiency in the development lifecycle.
+* Provided Level 2 support for problem analysis, troubleshooting, performance analysis, and optimization related to LSF (a UNIX-based job scheduler), ensuring smooth and efficient job scheduling operations.
+
+
+
 
 
 
