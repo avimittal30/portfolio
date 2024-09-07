@@ -1,71 +1,74 @@
-# Welcome to My Portfolio!
+# Aviral Mittal's Data Science & Machine Learning Portfolio
 
-Hello! I am Aviral Mittal, a **Data Scientist & Machine Learning Engineer** with over 12 years of experience. I specialize in **data-driven solutions**, having delivered successful projects across industries like Telecom, CPG, Pharma, Hospitality, and more. This portfolio showcases some of my work and skills in **AI, Data Science, and Machine Learning**.
+Welcome to my portfolio! I am Aviral Mittal, a **Senior Data Scientist and Machine Learning Engineer** with over 12 years of experience in building AI-driven solutions across industries like Telecom, CPG, Pharma, Hospitality, and more.
 
-## Projects
-
-### 1. Subscriber Churn Prediction (Telecom)
-* **Goal**: Predict customer churn based on recharge patterns and behavioral data.
-* **Technologies**: Python, TensorFlow, scikit-learn, Pandas
-* **Key Highlights**:
-  - Developed a classification model to predict churn with **85% accuracy**.
-  - Implemented feature engineering techniques such as **customer segmentation** and **temporal data analysis**.
-  - Used **MLflow** to track experiments and optimize hyperparameters.
-  
-![Churn Prediction](assets/churn_prediction.png)
+This portfolio highlights some of my key projects, focusing on AI, Data Science, and Machine Learning. It covers various aspects of Generative AI, Machine Learning, NLP, and more. Explore the projects to see how I leverage cutting-edge technologies to deliver impactful outcomes.
 
 ---
 
-### 2. NLP-Based Sentiment Analysis (Hospitality)
-* **Goal**: Perform sentiment analysis on customer reviews to improve service quality.
-* **Technologies**: Hugging Face Transformers, spaCy, NLTK, Flask
-* **Key Highlights**:
-  - Built a **BERT-based model** to analyze customer sentiments with **93% accuracy**.
-  - Deployed the model using **Flask** and **Streamlit** for real-time analysis.
+## Generative AI Applications
+
+### 1. Text-to-Image Generation with DALL·E
+* **Project Overview**: Generating images from textual descriptions using OpenAI's DALL·E model.
+* **Technology Stack**: Python, DALL·E, Hugging Face, OpenAI API
+* **Highlights**:
+  - Leveraged DALL·E to create custom images for marketing campaigns based on product descriptions.
+  - Applied text pre-processing techniques to improve image quality.
   
-![Sentiment Analysis](assets/sentiment_analysis.png)
+![DALL·E Example](assets/dalle_example.png)
 
 ---
 
-### 3. Sales Forecasting using Prophet (CPG)
-* **Goal**: Predict future sales based on historical data and seasonal patterns.
-* **Technologies**: Python, Prophet, Pandas, Matplotlib
-* **Key Highlights**:
-  - Improved forecast accuracy by implementing **seasonal decomposition** and **holiday effects**.
-  - Visualized forecast results with interactive charts using **Matplotlib** and **Seaborn**.
+### 2. Chatbot with GPT-4 for Real-Time Customer Support
+* **Project Overview**: Developed a chatbot for real-time customer interaction using GPT-4.
+* **Technology Stack**: Python, OpenAI GPT-4, Flask, Streamlit
+* **Highlights**:
+  - Fine-tuned GPT-4 for specific customer queries.
+  - Deployed the chatbot using Flask for backend and Streamlit for front-end interactions.
   
-![Sales Forecast](assets/sales_forecasting.png)
+![Chatbot Example](assets/chatbot_example.png)
 
 ---
 
-### 4. Custom Vision Transformer for Image Classification (AI Research)
-* **Goal**: Build a custom **ViT model** for image classification using TensorFlow and Keras.
-* **Technologies**: TensorFlow, Keras, Hugging Face, Python
-* **Key Highlights**:
-  - Built a Vision Transformer model to classify images with **state-of-the-art performance**.
-  - Applied **patch extraction** and **self-attention** mechanisms for efficient learning.
+## Machine Learning Projects
+
+### 1. Churn Prediction for Telecom Subscribers
+* **Project Overview**: Predict customer churn using historical recharge patterns.
+* **Technology Stack**: Python, TensorFlow, Pandas, scikit-learn
+* **Highlights**:
+  - Achieved **85% accuracy** in churn prediction.
+  - Implemented feature engineering techniques like customer segmentation.
   
-![Vision Transformer](assets/vision_transformer.png)
+![Churn Prediction Example](assets/churn_prediction_example.png)
+
+---
+
+### 2. Sales Forecasting using Prophet
+* **Project Overview**: Forecasted future sales for a CPG company using historical sales data.
+* **Technology Stack**: Python, Prophet, Pandas, Matplotlib
+* **Highlights**:
+  - Improved forecast accuracy using seasonal decomposition and holiday effects.
+  - Created interactive visualizations with Matplotlib.
+  
+![Sales Forecast Example](assets/sales_forecast_example.png)
 
 ---
 
 ## Skills
 
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, XGBoost, Prophet, ARIMA
-- **NLP**: Hugging Face Transformers, BERT, spaCy, NLTK
+- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, XGBoost
+- **Generative AI**: DALL·E, GPT-4, Hugging Face Transformers
+- **NLP**: BERT, GPT, spaCy, NLTK
 - **Data Engineering**: PySpark, SQL, Databricks
 - **Deployment**: MLflow, Docker, Streamlit, Flask
-- **Cloud**: AWS (SageMaker, EC2, S3), Azure (ML Studio, Databricks)
+- **Cloud**: AWS (SageMaker, EC2), Azure (Databricks)
 - **Data Visualization**: Matplotlib, Seaborn, PowerBI
 
 ---
 
-## Let's Connect!
+## Connect With Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aviral-mittal-11027011/) or check out my [GitHub](https://github.com/aviral-mittal) for more cool projects!
-
----
-
-### Sample Image Folder Structure:
-
-- `/assets/churn_prediction.png
+- LinkedIn: [Aviral Mittal](https://www.linkedin.com/in/aviral-mittal-11027011/)
+- GitHub: [Aviral's GitHub](https://github.com/aviral-mittal)
+- Medium: [Aviral's Medium](https://medium.com/@aviral_mittal)
+  
