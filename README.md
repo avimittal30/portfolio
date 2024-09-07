@@ -3,7 +3,12 @@ Welcome to my portfolio!
 
 ## About Me
 * A seasoned Data Science/AI professional backed by education in Engineering and Finance
-* 12+ years of experience in delivering data driver solutions to Fortune 500 clients from industries like Telecom, CPG, Pharma, Hospitality, Logistics 
+* 12+ years of experience in delivering data driver solutions to Fortune 500 clients from industries like Telecom, CPG, Pharma, Hospitality, Logistics
+
+🔘 Get in touch with me 👇 🔘
+
+📁[GitHub](https://github.com/avimittal30) | ✉️[avimittal3007@gmail.com](mailto:avimittal3007@gmail.com) <br/> | 🏢[LinkedIn](https://www.linkedin.com/in/aviral-mittal-11027011/) <br/>
+
 
 # Experience Summary
 
