@@ -7,7 +7,7 @@ Welcome to my portfolio!
 
 🔘 Get in touch with me 👇 🔘
 
-📁[GitHub](https://github.com/avimittal30) |              ✉️[avimittal3007@gmail.com](mailto:avimittal3007@gmail.com) <br/>                 🏢[LinkedIn](https://www.linkedin.com/in/aviral-mittal-11027011/) <br/>
+📁[GitHub](https://github.com/avimittal30)              ✉️[avimittal3007@gmail.com](mailto:avimittal3007@gmail.com)                 🏢[LinkedIn](https://www.linkedin.com/in/aviral-mittal-11027011/) <br/>
 
 
 # Experience Summary
