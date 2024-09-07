@@ -37,55 +37,104 @@ The eval_loss of the finetuned model was significantly lower compared to that of
 * Built Flask based naturopathy chatbot employing RAG architecture to recommend natural treatments for any medical issues. The model used was llama-2-7b model and vectordatabase was pinecone
 
 
-# Webspace Division: Skills and Interests
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skills and Interests</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-## Skills
+    .container {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
 
-<div style="display: flex;">
-  <div style="width: 50%; padding-right: 20px;">
-  
-  **ML Techniques**: Linear and Logistic Regression, Decision Trees, Random Forest, SVM, K-NN, XGBoost, AdaBoost, PCA, LDA  
-  **Forecasting**: Prophet, ARIMA, SARIMAX  
-  **NLP**: Hugging Face Transformers, spaCy  
-  **GenAI LLMs**: OpenAI GPT, Google Gemini AI  
-  **Open Source LLMs**: LLAMA2, Huggingface  
-  **Vector Database**: Pinecone, FAISS  
-  **Graph Database**: Neo4j  
-  **Framework**: Langchain  
-  **Languages/Libraries**: Python, R, Base SAS, Unix Shell Scripting, Numpy, Pandas, PySpark, Polars  
-  **Data Storage**: Teradata, Oracle, Amazon Redshift, Microsoft SQL Server  
-  **AutoML**: Featurewiz, AutoGluon, H20  
-  **MLOps**: MLFlow, Github Actions, Docker, Azure ML  
-  **AI/ML Frameworks**: Scikit-learn, Pytorch, Keras, Tensorflow  
-  **Version Control and CI/CD Tools**: Github, Azure DevOps  
-  **Model Deployment APIs**: Streamlit, Flask  
-  **Cloud AWS**: Sagemaker, EC2, ECR, S3bucket  
-  **Azure**: ML Studio, Data Factory, Blob Storage, SQL Database, Databricks  
-  **Data Visualization**: Matplotlib, Pyplot, Seaborn, PowerBI  
-  **Agile Methodology**: Agile, Scrum, Jira  
+    .half {
+      flex: 1;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
 
+    .half h2 {
+      margin-bottom: 20px;
+    }
+
+    .skills, .interests {
+      width: 50%;
+      padding: 20px;
+    }
+
+    .skills {
+      background-color: #f0f0f0;
+    }
+
+    .interests {
+      background-color: #ffffff;
+    }
+
+    .content {
+      max-width: 800px;
+    }
+
+    .bold {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="half skills">
+      <div class="content">
+        <h2>Skills</h2>
+        <p><span class="bold">ML Techniques</span>: Linear and Logistic Regression, Decision Trees, Random Forest, SVM, K-NN, XGBoost, AdaBoost, PCA, LDA</p>
+        <p><span class="bold">Forecasting</span>: Prophet, ARIMA, SARIMAX</p>
+        <p><span class="bold">NLP</span>: Hugging Face Transformers, spaCy</p>
+        <p><span class="bold">GenAI LLMs</span>: OpenAI GPT, Google Gemini AI</p>
+        <p><span class="bold">Open Source LLMs</span>: LLAMA2, Huggingface</p>
+        <p><span class="bold">Vector Database</span>: Pinecone, FAISS</p>
+        <p><span class="bold">Graph Database</span>: Neo4j</p>
+        <p><span class="bold">Framework</span>: Langchain</p>
+        <p><span class="bold">Languages/Libraries</span>: Python, R, Base SAS, Unix Shell Scripting, Numpy, Pandas, PySpark, Polars</p>
+        <p><span class="bold">Data Storage</span>: Teradata, Oracle, Amazon Redshift, Microsoft SQL Server</p>
+        <p><span class="bold">AutoML</span>: Featurewiz, AutoGluon, H20</p>
+        <p><span class="bold">MLOps</span>: MLFlow, Github Actions, Docker, Azure ML</p>
+        <p><span class="bold">AI/ML Frameworks</span>: Scikit-learn, Pytorch, Keras, Tensorflow</p>
+        <p><span class="bold">Version Control and CI/CD Tools</span>: Github, Azure DevOps</p>
+        <p><span class="bold">Model Deployment APIs</span>: Streamlit, Flask</p>
+        <p><span class="bold">Cloud AWS</span>: Sagemaker, EC2, ECR, S3bucket</p>
+        <p><span class="bold">Azure</span>: ML Studio, Data Factory, Blob Storage, SQL Database, Databricks</p>
+        <p><span class="bold">Data Visualization</span>: Matplotlib, Pyplot, Seaborn, PowerBI</p>
+        <p><span class="bold">Agile Methodology</span>: Agile, Scrum, Jira</p>
+      </div>
+    </div>
+
+    <div class="half interests">
+      <div class="content">
+        <h2>Interests</h2>
+        <p>- Generative AI and its applications</p>
+        <p>- Computer Vision advancements</p>
+        <p>- AI-driven automation in industries</p>
+        <p>- AI Ethics and Responsible AI</p>
+        <p>- Open Source AI tools and libraries</p>
+        <p>- Data Engineering and MLOps</p>
+        <p>- Cloud Technologies for AI/ML</p>
+        <p>- Continuous Learning and Development in AI</p>
+      </div>
+    </div>
   </div>
 
-  <div style="width: 50%; padding-left: 20px;">
-
-  ## Interests
-  
-  - Generative AI and its applications  
-  - Computer Vision advancements  
-  - AI-driven automation in industries  
-  - AI Ethics and Responsible AI  
-  - Open Source AI tools and libraries  
-  - Data Engineering and MLOps  
-  - Cloud Technologies for AI/ML  
-  - Continuous Learning and Development in AI  
-
-  </div>
-</div>
-
-
-
-
-
-
+</body>
+</html>
 
 
