@@ -37,6 +37,52 @@ The eval_loss of the finetuned model was significantly lower compared to that of
 * Built Flask based naturopathy chatbot employing RAG architecture to recommend natural treatments for any medical issues. The model used was llama-2-7b model and vectordatabase was pinecone
 
 
+# Webspace Division: Skills and Interests
+
+## Skills
+
+<div style="display: flex;">
+  <div style="width: 50%; padding-right: 20px;">
+  
+  **ML Techniques**: Linear and Logistic Regression, Decision Trees, Random Forest, SVM, K-NN, XGBoost, AdaBoost, PCA, LDA  
+  **Forecasting**: Prophet, ARIMA, SARIMAX  
+  **NLP**: Hugging Face Transformers, spaCy  
+  **GenAI LLMs**: OpenAI GPT, Google Gemini AI  
+  **Open Source LLMs**: LLAMA2, Huggingface  
+  **Vector Database**: Pinecone, FAISS  
+  **Graph Database**: Neo4j  
+  **Framework**: Langchain  
+  **Languages/Libraries**: Python, R, Base SAS, Unix Shell Scripting, Numpy, Pandas, PySpark, Polars  
+  **Data Storage**: Teradata, Oracle, Amazon Redshift, Microsoft SQL Server  
+  **AutoML**: Featurewiz, AutoGluon, H20  
+  **MLOps**: MLFlow, Github Actions, Docker, Azure ML  
+  **AI/ML Frameworks**: Scikit-learn, Pytorch, Keras, Tensorflow  
+  **Version Control and CI/CD Tools**: Github, Azure DevOps  
+  **Model Deployment APIs**: Streamlit, Flask  
+  **Cloud AWS**: Sagemaker, EC2, ECR, S3bucket  
+  **Azure**: ML Studio, Data Factory, Blob Storage, SQL Database, Databricks  
+  **Data Visualization**: Matplotlib, Pyplot, Seaborn, PowerBI  
+  **Agile Methodology**: Agile, Scrum, Jira  
+
+  </div>
+
+  <div style="width: 50%; padding-left: 20px;">
+
+  ## Interests
+  
+  - Generative AI and its applications  
+  - Computer Vision advancements  
+  - AI-driven automation in industries  
+  - AI Ethics and Responsible AI  
+  - Open Source AI tools and libraries  
+  - Data Engineering and MLOps  
+  - Cloud Technologies for AI/ML  
+  - Continuous Learning and Development in AI  
+
+  </div>
+</div>
+
+
 
 
 
