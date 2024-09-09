@@ -1,4 +1,5 @@
-# AL/ML Portfolio
+# I bring both deep expertise and the foresight to turn data into a strategic advantage
+
 Welcome to my portfolio! 
 
 ## About Me
