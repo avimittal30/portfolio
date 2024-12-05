@@ -53,8 +53,3 @@ Welcome to my portfolio!
 | 🔝 Technologies | 🔝 Interests |
 |---------------|--------------|
 | • **Languages**: Python, SQL, R, SAS <br/> • **Machine Learning/AI**: Scikit-Learn, PyTorch, Tensorflow, Keras <br/> • **Natural Language Processing and Natural Language Understanding**: HuggingFace Transformers, spaCy, NLTK,Langchain, OpenAI <br/> • **Vector Databases**: FAISS, Pinecone <br/> **Cloud**: [AWS](https://github.com/avimittal30/BankingChurnPrediction-AWS-Deployment) (SageMaker, EC2 Instance, ECR,  S3), [Azure](https://www.credly.com/badges/63876507-38e2-4645-8c31-356d3590717b/linked_in_profile)(ML Studio, Data Factory, Blob Storage, Databricks), <br/> • **MLOps**: [MLflow](https://github.com/avimittal30/MLflowExp), Docker, CI/CD, Git, GitHub Actions <br/> • **Visualization**: Power BI, Plotly, Seaborn <br/> • **Database**: Oracle, Teradata, Amazon Redshift, SQL Server <br/> | • Generative AI <br/> • NLP <br/> • Traditional ML <br/> • Stock Market Analysis (Fundamental), Macroeconomics <br/> • Music, Exercising <br/>|
-
-
-# Education
-- **Post Graduate Diploma in Management - Financial Services** | K J Somaiya Institute of Management, Mumbai, India | 2013-2015 
-- **Bachelor of Engineering - Instrumentation and Control**| University of Delhi, India | 2005-2009
