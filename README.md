@@ -43,8 +43,8 @@ Welcome to my portfolio!
 * Provided Level 2 support for problem analysis, troubleshooting, performance analysis, and optimization related to LSF (a UNIX-based job scheduler), ensuring smooth and efficient job scheduling operations.
 
 ## Generative AI Applications
-* Developed a RAG-based stock analysis tool to extract key insights from financial reports using Retrieval-Augmented Generation, while retrieving historical performance data through APIs.
-* Fine-tuned and deployed an EfficientNet model with 80% accuracy for human emotion detection through a Flask app on AWS EC2, integrating a CI/CD pipeline via GitHub Actions.
+* Developed a RAG-based stock analysis tool to extract key insights from financial reports with RAG, while retrieving historical performance data through APIs.[[GitHub](https://github.com/avimittal30/fundamental_analysis)]
+* Fine-tuned and deployed an EfficientNet model with 80% accuracy for human emotion detection through a Flask app on AWS EC2, integrating a CI/CD pipeline via GitHub Actions.[[GitHub](https://github.com/avimittal30/HumanEmotionDetection)] 
 * Built Flask based naturopathy chatbot employing RAG architecture to recommend natural treatments for any medical issues. The model used was llama-2-7b model and vectordatabase was pinecone. [[GitHub](https://github.com/avimittal30/Naturopathy-Chatbot)]
 
 
